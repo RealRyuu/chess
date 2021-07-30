@@ -1,0 +1,8 @@
+[requires]
+glfw/3.3.4
+imgui/1.83
+glad/0.1.34
+glm/0.9.9.8
+
+[generators]
+cmake
